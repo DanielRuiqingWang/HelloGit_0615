@@ -8,5 +8,9 @@ public class HelloGit {
 		System.out.println("hello git,i come here!");
 		
 		System.out.println("hello git,i come here!");
+		
+		System.out.println("hello git,i come here!");
+		
+		System.out.println("hello git,i come here!");
 	}
 }
