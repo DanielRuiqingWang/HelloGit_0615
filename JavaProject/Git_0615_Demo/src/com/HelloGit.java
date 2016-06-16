@@ -14,5 +14,13 @@ public class HelloGit {
 		System.out.println("hello git,i come here!");
 		
 		System.out.println("hello git,i come here!");
+		
+		new HelloGit().test01("张三");
+	}
+	
+	
+	
+	public void test01(String name){
+		System.out.println("ni hao:"+name);
 	}
 }
