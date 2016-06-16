@@ -22,5 +22,10 @@ public class HelloGit {
 	
 	public void test01(String name){
 		System.out.println("ni hao:"+name);
+		System.out.println("ni hao:"+name);
+		System.out.println("ni hao:"+name);
+		System.out.println("ni hao:"+name);
+		System.out.println("ni hao:"+name);
+		System.out.println("ni hao:"+name);
 	}
 }
